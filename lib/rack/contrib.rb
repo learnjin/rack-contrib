@@ -39,4 +39,5 @@ module Rack
   autoload :StaticCache,                "rack/contrib/static_cache"
   autoload :TryStatic,                  "rack/contrib/try_static"
   autoload :Printout,                   "rack/contrib/printout"
+  autoload :StickyParams,               "rack/contrib/sticky_params"
 end

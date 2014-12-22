@@ -1,5 +1,5 @@
 # Rakefile for Rack::Contrib.  -*-ruby-*-
-require 'rake/rdoctask'
+require 'rdoc/task'
 require 'rake/testtask'
 
 desc "Run all the tests"
